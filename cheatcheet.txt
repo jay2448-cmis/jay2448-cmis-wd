@@ -1,0 +1,13 @@
+-ls /Show files in repasitories
+-clear / clear the termianl screen
+-cd /change the repasitory 
+ - / to desktop
+ - .. / to home 
+-gedit filename / Open file in gedit
+-cat / Show txt file in termianl screen
+-git 
+ -add /Save the file in terminal
+ -commit /Save the file locally
+ -push /Save the file in the server(github)
+ -clone /Cloning the repasitory in the terminal
+																																														
