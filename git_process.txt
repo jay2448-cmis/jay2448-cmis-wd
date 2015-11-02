@@ -8,5 +8,6 @@ After you make/open a file, you need to save the file(Ctrl+S)
 After saving it, now you need to add, and push the file you made.
 type "git add yourfilename" then it will add the file in your computer.
 Type "git status" to see if your file has added to the computer
+Type "got commit -m "whatyoudid for this file" to save the file locally and make comment about what you did on this file.
 type "git push yourfilename" in order to push your file to the github server, you will need to log in with your github id
 Now you are done! Turn off your computer and go sleep or something
