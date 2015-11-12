@@ -1,31 +1,47 @@
+html{
+	background-image:url(http://static7.depositphotos.com/1001559/685/v/950/depositphotos_6859192-Hexagons-texture.-Seamless-geometric-pattern..jpg);
+	color:ffccdd;
+	background-color:lightyellow;
+}
 h1{
 	font-family:Comic Sans MS;
-	color:#ccccff;
+	color:#ffccdd;
 	font-size:52px;
-	background-color:#cc99ff;
-	border-style:solid;
+	background-color:lemonchiffon;
+	border-style:dashed;
+	border-color:black;
 }
 h2{
 	font-family:Comic Sans MS;
-	color:#ccccff;
+	color:BlanchedAlmond;
 	font-size:32px;
-	background-color:#cc99ff;
-	border-style:solid;
+	background-color:Lightyellow;
+	border-style:Groove;
+	border-color:red;
 }
 main{
 	font-family:Comic Sans MS;
 	color:#ccff00;
 	font-size:21px;
-	background-color:#cc99ff;
-	border-style:solid;
+	background-color:Mistyrose;
+	border-style:Groove;
+	border-color:red;
 }
-html{
-	background-color:#ccccff;
-	border-style:solid;
-}
+
 p{
 	color:#303030;
 }
+h6{
+	border-style:solid;
+	background-color:lightyellow;
+	border-color:green;
+}
+h5{
+	border-style:solid;
+	border-color:blue;
+}
+body{
+	background-color:lightyellow;
 /* Create a new file called "main.css"
 *Add a link element to the head of your index.html file
 *<link rel="stylesheet" href="main.css" type="text/css">
