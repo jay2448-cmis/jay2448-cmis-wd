@@ -1,47 +1,53 @@
 html{
-	background-image:url(http://static7.depositphotos.com/1001559/685/v/950/depositphotos_6859192-Hexagons-texture.-Seamless-geometric-pattern..jpg);
-	color:ffccdd;
-	background-color:lightyellow;
+	
 }
 h1{
-	font-family:Comic Sans MS;
-	color:#ffccdd;
-	font-size:52px;
-	background-color:lemonchiffon;
-	border-style:dashed;
-	border-color:black;
+	background-color:#669900;
+	font-family: impact, charcoal , Sans-serif;
+	font-style:italic;
+	color:yellow;
 }
 h2{
-	font-family:Comic Sans MS;
-	color:BlanchedAlmond;
-	font-size:32px;
-	background-color:Lightyellow;
-	border-style:Groove;
-	border-color:red;
+	background-color:yellow;	
+	font-size:20px;	
+	color:#cc0066;
 }
-main{
-	font-family:Comic Sans MS;
-	color:#ccff00;
-	font-size:21px;
-	background-color:Mistyrose;
-	border-style:Groove;
-	border-color:red;
+h3{
+	background-color:blue;
+	font-family:arial;
+	font-size:30px;	
+	color:yellow;
 }
-
-p{
-	color:#303030;
-}
-h6{
-	border-style:solid;
-	background-color:lightyellow;
-	border-color:green;
+h4{
+	background-color:#ff3300;
+	font-family:arial;
+	color:blue;
+	
 }
 h5{
-	border-style:solid;
-	border-color:blue;
+	
 }
+main{
+	border-style:dashed;
+	border-color:red;
+	border:
+	color:#cc0099;
+}
+nav{
+	background-color:yellow;	
+	font-size:20px;	
+	color:#cc0066;
+}
+p{
+	
+}
+
 body{
-	background-color:lightyellow;
+	
+}
+footer{
+	border-style:groove;
+}
 /* Create a new file called "main.css"
 *Add a link element to the head of your index.html file
 *<link rel="stylesheet" href="main.css" type="text/css">
