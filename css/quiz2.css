@@ -1,0 +1,46 @@
+header{
+	background-color:red;
+	border-right-style:solid;
+	border-right-width:100px;
+	border-right-color:yellow;
+	padding:0.5cm 0.5cm 2cm 0.5cm;
+	margin:0px 200px 0px 0px;
+}
+header > h1{
+	border-style:solid;
+	border-color:yellow;
+	border-width:1px;
+}
+header > p{
+	padding:1cm 1cm 1cm 1cm;
+	color:#fdfdfd;
+	font-family:Georgia;
+}
+nav{
+	border-style:solid;
+	border-width:1px;
+	margin:0px 0px 0px 200px;
+}
+main{
+	padding:0px 0px 0px 200px;
+	background-color:grey;
+}
+main > p{
+	background-color:white;
+}
+main > table{
+	background-color:yellow;
+}
+tr > th{
+	color:red;
+}
+footer{	
+	margin: 2cm 0cm 2cm 0cm;
+	border-style:dashed;
+	border-width:11px;
+	border-color:blue;
+}
+footer > p{
+	color:white;
+	background-color:blue;
+}
