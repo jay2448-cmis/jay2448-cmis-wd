@@ -1,0 +1,8 @@
+html{
+	background-color:#ffccdd;
+}
+nav{
+	float:left;
+	border-style:solid;
+	border-width:3px;
+}
