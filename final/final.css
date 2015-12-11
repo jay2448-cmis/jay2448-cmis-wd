@@ -1,8 +1,47 @@
 html{
 	background-color:#ffccdd;
+	border-width:1px;
+}
+header{
+	border-style:solid;
+	border-width:1px;
+	padding-left:10px;
+}
+main{
+	margin-left:100px;
+	border-style:solid;
+	border-width:1px;
+}
+main > img{
+	padding: 1cm 1cm 1cm 2cm;
+}
+main > h1{
+	border-style:solid;
+	margin:0px 0px 0px 0px;
+	border-width:1px;
+	background-color:white;
+}
+main > p{
+	padding:1cm 0cm 0cm 1cm;
+}
+main > h2{
+	padding:1cm 0cm 0cm 1cm;
+}
+main > h3{
 }
 nav{
 	float:left;
 	border-style:solid;
-	border-width:3px;
+	border-width:1px;
+	margin-right:10px;
+	width:99px;
+}
+article{
+	clear:left;
+}
+img.doge-doge{
+	float:right;
+}
+h2{
+
 }
