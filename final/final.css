@@ -2,22 +2,22 @@
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC);
 @import url(https://fonts.googleapis.com/css?family=Roboto:500);
 html{
-	background-image:url(images/backback.jpg);
+	background-color:#ffe5e5;
 	border-width:1px;
 }
 header{
 	border-style:solid;
 	border-width:1px;
-	padding-left:10px;
+	text-align:center;
 	font-family: 'Poiret One', cursive;
 	color:white;
-	background-image:url(images/Universe.jpg)
+	background-image:url(images/Universe.jpg);
 }
 main{
 	margin-left:110px;
 	border-style:solid;
 	border-width:1px;
-	background-image:url(images/Backrepeat.png);
+	background-color:#ff7d7d;
 }
 main article{
 	color:white;
@@ -34,38 +34,58 @@ main > h1{
 	border-width:1px;
 	background-image:url(images/pattern-1.png);
 	font-family:'Amatic SC', cursive;
+	font-size:60px;
 	color:orange;
+	text-align:center;
 }
 main > p{
 	padding:0cm 0cm 0cm 1cm;
 }
 main > h2{
 	padding:0cm 0cm 0cm 1cm;
+	color:#ff6d6d;
 }
 main article{
 	padding:0cm 0cm 0cm 1cm;
 }
 nav{
 	float:left;
-	border-style:solid;
-	border-width:1px;
 	margin-right:10px;
+	margin-left:0px;
 	width:109px;
+	background-color:#ff7d7d;
 	font-family: 'Roboto', sans-serif;
+	
+}
+img{
+	float:left;
 }
 article{
 	clear:left;
-	border-style:solid;
+	height:330px;
+	width:340px;
+	float:left;
+	font-family:'Amatic SC', cursive;
+	font-size:30px;
+	background-color:#ff7d7d;
+}
+article ul{
+	background-color:#ffe5e5;
+	color:#ff3333;
+	font-family:'Amatic SC', cursive;
+	font-size:24px;
+	width:280px;
 }
 h3{
 	padding-left:1cm;
 	margin-bottom:0.3cm;	
-	color:#ff7d7d;
+	color:#dd6b7d;
 }
 br{
 	clear:right;
 }
 nav:hover{
+	
 	background-color:#ff7d7d;
 }
 nav li{
@@ -75,13 +95,25 @@ a:hover {
 	color: hotpink;
 }
 a:visited {
-	color: hotpink;
+	color:#f7dfdd;
 	text-decoration: none;
 }
 a:link {
 	color: #ffb87d;
 	text-decoration: none;
 }
-li a{
-	display:block;
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ff7d7d;
+}
+li a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+li a:hover {
+    background-color:#ffccdd;
+	color: #333;
 }
